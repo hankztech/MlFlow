@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/76feed1b9b5142eb958b1341cd227159/artifacts
+end_time: 1791982669127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76feed1b9b5142eb958b1341cd227159
+run_name: shivering-ape-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791982669102
+status: 3
+tags: []
+user_id: barong

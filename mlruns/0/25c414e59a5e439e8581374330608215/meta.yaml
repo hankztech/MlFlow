@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/25c414e59a5e439e8581374330608215/artifacts
+deleted_time: 1791977379310
+end_time: 1791977149708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 25c414e59a5e439e8581374330608215
+run_name: learned-kite-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791977149692
+status: 3
+tags: []
+user_id: barong

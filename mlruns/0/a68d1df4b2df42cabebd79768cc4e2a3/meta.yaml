@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a68d1df4b2df42cabebd79768cc4e2a3/artifacts
+end_time: 1791984393616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a68d1df4b2df42cabebd79768cc4e2a3
+run_name: merciful-deer-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791984393336
+status: 4
+tags: []
+user_id: barong
